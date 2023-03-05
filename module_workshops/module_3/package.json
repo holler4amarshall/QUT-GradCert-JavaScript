@@ -1,0 +1,19 @@
+{
+  "name": "module_3",
+  "version": "1.0.0",
+  "description": "Module 3 workshop files for QUT Javascript course",
+  "main": "module3_practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holler4amarshall/QUT-GradCert-JavaScript.git#main"
+  },
+  "author": "Holly Marshall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holler4amarshall/QUT-GradCert-JavaScript/issues"
+  },
+  "homepage": "https://github.com/holler4amarshall/QUT-GradCert-JavaScript/tree/main#readme"
+}
